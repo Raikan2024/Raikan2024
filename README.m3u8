@@ -2,19 +2,19 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Raikan2024/Novo/main/EPG-TESTE.XML"
 ############## Canais Filmes ################# 
 
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/76ZTmgmr/TC-Actionnew.webp" group-title="Canais Filmes",Telecine Action
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action" tvg-logo="https://i.postimg.cc/76ZTmgmr/TC-Actionnew.webp" group-title="Canais Filmes",Telecine Action
 https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Canais Filmes",Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
 
-#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch" tvg-logo="https://i.postimg.cc/Gmv7CCrh/800px-Telecine-Touch-3.png" group-title="Canais Filmes",Telecine Touch
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.postimg.cc/Gmv7CCrh/800px-Telecine-Touch-3.png" group-title="Canais Filmes",TELECINE TOUCH
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90637
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium " tvg-logo="https://i.postimg.cc/NFJhRwLw/800px-Telecine-Premium.png" group-title="Canais Filmes",Telecine Premium 
+#EXTINF:-1 tvg-id="clarotvmais.com.br" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.postimg.cc/NFJhRwLw/800px-Telecine-Premium.png" group-title="Canais Filmes",TELECINE PREMIUM
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/16.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://i.postimg.cc/0NHXJKmc/Telecine-Fun-2.png" group-title="Canais Filmes",Telecine Fun
+#EXTINF:-1 tvg-id="clarotvmais.com.br" tvg-name="Telecine Fun" tvg-logo="https://i.postimg.cc/0NHXJKmc/Telecine-Fun-2.png" group-title="Canais Filmes",Telecine Fun
 https://new.embedflix.co/p2p/telecinetouch/chunks.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://i.postimg.cc/KvxXbL5M/Telecine-Cult.png" group-title="Canais Filmes",Telecine Cult
