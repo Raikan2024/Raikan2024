@@ -1,14 +1,14 @@
 #EXTM3U 
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Raikan2024/Novo/main/EPG-TESTE.XML"
 ############## Canais Filmes ################# 
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/76ZTmgmr/TC-Actionnew.webp" group-title="Canais Filmes",Telecine Action
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD" tvg-logo="https://i.postimg.cc/76ZTmgmr/TC-Actionnew.webp" group-title="Canais Filmes",Telecine Action
 https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Canais Filmes",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Canais Filmes",Telecine Pipoca
 https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://i.postimg.cc/Gmv7CCrh/800px-Telecine-Touch-3.png" group-title="Canais Filmes",Telecine Touch
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch" tvg-logo="https://i.postimg.cc/Gmv7CCrh/800px-Telecine-Touch-3.png" group-title="Canais Filmes",Telecine Touch
 http://ratomickey.eu:8080/gNCrADJMffpq/8td5eG5Vmej8/90637
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium " tvg-logo="https://i.postimg.cc/NFJhRwLw/800px-Telecine-Premium.png" group-title="Canais Filmes",Telecine Premium 
