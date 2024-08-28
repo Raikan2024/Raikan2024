@@ -1,3 +1,147 @@
 #EXTM3U 
 
+############## Canais Filmes ################# 
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="https://i.postimg.cc/wj7BCPWL/Telecine-Action-2019.png" group-title="Canais Filmes",Telecine Action
+http://gmaplay.xyz:8080/r6sQfv/306718/145002
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="https://i.postimg.cc/dQjDrGkk/Telecine-Pipoca-2019.webp" group-title="Canais Filmes",Telecine Pipoca
+http://gmaplay.xyz:8080/r6sQfv/306718/145015
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="https://i.postimg.cc/MKsTrxYz/TC-Premium-2019.webp" group-title="Canais Filmes",Telecine Premium
+http://gmaplay.xyz:8080/r6sQfv/306718/145020
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="https://i.postimg.cc/SRds4pF7/Telecine-Touch-2019.webp" group-title="Canais Filmes",Telecine Touch
+http://gmaplay.xyz:8080/r6sQfv/306718/145025
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="https://i.postimg.cc/kXMGcDKj/Telecine-Fun-2019.webp" group-title="Canais Filmes",Telecine Fun
+http://gmaplay.xyz:8080/r6sQfv/306718/145012
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="https://i.postimg.cc/8cN5xz3z/Telecine-Cult-2019.webp" group-title="Canais Filmes",Telecine Cult
+http://gmaplay.xyz:8080/r6sQfv/306718/145008
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.postimg.cc/QCTSCsJ5/pngwing-com.png" group-title="Canais Filmes",HBO
+http://gmaplay.xyz:8080/r6sQfv/306718/144658
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://i.postimg.cc/rpVhJBqX/pngwing-com-1.png" group-title="Canais Filmes",HBO 2
+http://gmaplay.xyz:8080/r6sQfv/306718/144659
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/xC7t9qMn/pngwing-com-2.png" group-title="Canais Filmes",HBO Family
+http://gmaplay.xyz:8080/r6sQfv/306718/144663
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://i.postimg.cc/yNLLrLNJ/HBO-Plus.png" group-title="Canais Filmes",HBO Plus
+http://gmaplay.xyz:8080/r6sQfv/306718/144680
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://i.postimg.cc/52MKHHGt/pngwing-com-3.png" group-title="Canais Filmes",HBO Signature
+http://gmaplay.xyz:8080/r6sQfv/306718/144689
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="https://i.postimg.cc/MKBrK094/HBO-Xtreme-svg.png" group-title="Canais Filmes",HBO Xtreme
+http://gmaplay.xyz:8080/r6sQfv/306718/144694
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="https://i.postimg.cc/nzySvT26/HBO-Mundi.png" group-title="Canais Filmes",HBO Mundi
+http://gmaplay.xyz:8080/r6sQfv/306718/144676
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="https://i.postimg.cc/xdF4d9zj/HBO-Pop.png" group-title="Canais Filmes",HBO Pop
+http://gmaplay.xyz:8080/r6sQfv/306718/144684
+
+#EXTINF:-1 tvg-id="" tvg-name="Megapix" tvg-logo="https://i.postimg.cc/DZJYJRrr/Megapix-logo-2011.png" group-title="Canais Filmes",Megapix
+http://gmaplay.xyz:8080/r6sQfv/306718/144737
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.postimg.cc/YSSPkvjy/Cinemax-LA.png" group-title="Canais Filmes",Cinemax
+http://gmaplay.xyz:8080/r6sQfv/306718/144320
+
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://i.postimg.cc/ydk2hDHS/pngwing-com.png" group-title="Canais Filmes",SPACE
+http://gmaplay.xyz:8080/r6sQfv/306718/144954
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://i.postimg.cc/65sFR61y/pngwing-com-1.png" group-title="Canais Filmes",Paramount Channel
+hhttp://gmaplay.xyz:8080/r6sQfv/306718/144807
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://i.postimg.cc/HnMKKFjY/pngwing-com-2.png" group-title="Canais Filmes",AMC
+hhttp://gmaplay.xyz:8080/r6sQfv/306718/144220
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://i.postimg.cc/VvXG4MH5/pngwing-com-3.png" group-title="Canais Filmes",TNT
+http://gmaplay.xyz:8080/r6sQfv/306718/145035
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="https://i.postimg.cc/3rGcK5J7/pngwing-com-4.png" group-title="Canais Filmes",Canal Brasil
+http://gmaplay.xyz:8080/r6sQfv/306718/144290
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine canal" tvg-logo="https://i.postimg.cc/9Xwvrwb6/pngwing-com-5.png" group-title="Canais Filmes",Cine canal
+http://gmaplay.xyz:8080/r6sQfv/306718/144316
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://i.postimg.cc/jjqp583c/pngwing-com-6.png" group-title="Canais Filmes",FX
+http://gmaplay.xyz:8080/r6sQfv/306718/144488
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="https://i.postimg.cc/W49QJMQv/Sony-Channel-Logo.png" group-title="Canais Filmes",Sony
+http://gmaplay.xyz:8080/r6sQfv/306718/144296
+
+#EXTINF:-1 tvg-id="Star Channel" tvg-name="" tvg-logo="https://i.postimg.cc/nh18n82M/Star-Channel-2020-svg.png" group-title="Canais Filmes",Star Channel
+http://gmaplay.xyz:8080/r6sQfv/306718/144976
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://i.postimg.cc/zXKZPHRC/Turner-Classic-Movies-TCM-Latin-America-2015-logo.png" group-title="Canais Filmes",TCM
+http://gmaplay.xyz:8080/r6sQfv/306718/145000
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="https://i.postimg.cc/ZR22wJbs/pngwing-com-7.png" group-title="Canais Filmes",Warner Channel
+http://gmaplay.xyz:8080/r6sQfv/306718/145083
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://i.postimg.cc/mZ0WwyhZ/pngwing-com-8.png" group-title="Canais Filmes",Studio Universal
+http://gmaplay.xyz:8080/r6sQfv/306718/144988
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canais Filmes",
+
+
+
+############## Infatil ################# 
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/6QLTwB58/pngwing-com.png" group-title="Infatil",Cartoon Network
+http://gmaplay.xyz:8080/r6sQfv/306718/144300
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://i.postimg.cc/VktdGjxB/Nick-Jr-logo-2023-outline-svg.png" group-title="Infatil",Nick Jr
+http://gmaplay.xyz:8080/r6sQfv/306718/144790
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://i.postimg.cc/LsMhrJRd/Nickelodeon-2023-logo-outline-svg.png" group-title="Infatil",Nickelodeon
+http://gmaplay.xyz:8080/r6sQfv/306718/144786
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://i.postimg.cc/VLpJW7Vk/pngwing-com-1.png" group-title="Infatil",Discovery Kids
+http://gmaplay.xyz:8080/r6sQfv/306718/144385
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="https://i.postimg.cc/wT7tJKFr/pngwing-com-2.png" group-title="Infatil",Disney
+http://gmaplay.xyz:8080/r6sQfv/306718/144409
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.postimg.cc/gjBn54c4/new-cartoonito-logo-by-abfan21-dftmwp8-fullview.png" group-title="Infatil",Cartoonito
+http://gmaplay.xyz:8080/r6sQfv/306718/144303
+
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://i.postimg.cc/CMvBzMCD/pngwing-com-3.png" group-title="Infatil",Gloob
+http://gmaplay.xyz:8080/r6sQfv/306718/144642
+
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="https://i.postimg.cc/NF0KpZt5/Gloobinho-logo-svg.png" group-title="Infatil",Gloobinho
+http://gmaplay.xyz:8080/r6sQfv/306718/144646
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://i.postimg.cc/G2d8sHSP/Tooncast.png" group-title="Infatil",Tooncast
+http://gmaplay.xyz:8080/r6sQfv/306718/145044
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum" tvg-logo="https://i.postimg.cc/xC5kGnWw/311301065-531944288935251-4667083937016977977-n.jpg" group-title="Infatil",TV Rá Tim Bum
+http://gmaplay.xyz:8080/r6sQfv/306718/145066
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/xdrbnsv4/pngwing-com-4.png" group-title="Infatil",Baby TV
+http://gmaplay.xyz:8080/r6sQfv/306718/144243
+
+#EXTINF:-1 tvg-id="" tvg-name="BBob Esponja 24HS" tvg-logo="https://img.elo7.com.br/product/original/3254FDB/bob-esponja-e-patrick-em-camadas-arquivo-de-corte-personalizados-bob-esponja-e-patrick.jpg" group-title="Infatil",Bob Esponja 24HS
+http://gmaplay.xyz:8080/r6sQfv/306718/144278
+
+#EXTINF:-1 tvg-id="" tvg-name="Central Kids 24HRS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRROX1v4AOvX8BmNAdRxql5UpLPDz5LwhFaI8VZ=s900-c-k-c0x00ffffff-no-rj" group-title="Infatil",Central Kids 24HRS
+http://gmaplay.xyz:8080/r6sQfv/306718/144310
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves em Desenho 24HS" tvg-logo="https://tm.ibxk.com.br/2022/02/02/02082618133020.jpg" group-title="Infatil",Chaves em Desenho 24HS
+http://gmaplay.xyz:8080/r6sQfv/306718/144312
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Kids 24HRS" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRROX1v4AOvX8BmNAdRxql5UpLPDz5LwhFaI8VZ=s900-c-k-c0x00ffffff-no-rj" group-title="Infatil",Cine Kids 24HRS
+http://gmaplay.xyz:8080/r6sQfv/306718/144319
+
+#EXTINF:-1 tvg-id="" tvg-name="Peixonautas 24 HRS" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a3/Peixonauta.jpg/revision/latest?cb=20210125012438&path-prefix=pt-br" group-title="Infatil",Peixonautas 24 HRS
+http://gmaplay.xyz:8080/r6sQfv/306718/144814
+
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24HRS" tvg-logo="https://img.elo7.com.br/product/main/3D3E77D/painel-redondo-1-5x1-5m-3-palavrinhas-deus-e-amor-religiao-tematica.jpg" group-title="Infatil",3 Palavrinhas 24HRS
+http://gmaplay.xyz:8080/r6sQfv/306718/145095
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Infatil",
 
